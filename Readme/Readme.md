@@ -1,1 +1,0 @@
-The project is well suited for the chrome browser layout

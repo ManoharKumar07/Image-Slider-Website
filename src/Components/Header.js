@@ -1,6 +1,8 @@
 import React from "react";
 import logo from "./Mlogo.png";
 import AddAPhotoIcon from '@mui/icons-material/AddAPhoto';
+import {Link} from "react-router-dom";
+
 
 const Header = () => {
   return (
@@ -13,10 +15,12 @@ const Header = () => {
      
         </div>
         {/* Defining the ADD Image button in the header  */}
+        <Link to={"/addImage"} style={{ textDecoration: 'none', color: 'inherit', background:"transparent" }}>
         <div className="addImage hover:bg-blue-500 transition duration-150 ease-out hover:ease-in flex justify-start align-center p-2 ">
         <AddAPhotoIcon/>
         <p>Add Image</p>
         </div>
+        </Link>
        
       </div> 
     </div>
