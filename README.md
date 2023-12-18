@@ -1,4 +1,10 @@
 # Getting Started with Create React App
+
+# **********************************************************************************************************************************************************
+# Project media post link is given  below
+https://www.linkedin.com/posts/manohar-kumar-07-_reactdeveloper-firebase-webdevelopment-activity-7131544327494799360-hHwV?utm_source=share&utm_medium=member_desktop
+# ********************************************************************************************************************************************************** 
+
 #### **********The project is well suited for the microsoft edge  browser layout ******************
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
